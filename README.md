@@ -10,3 +10,7 @@ Po klknięciu w submit zablokuj automatyczne wysyłanie formularza, i dodaj odpo
 
 https://developers.google.com/maps/documentation/javascript/markers
 https://developers.google.com/maps/documentation/javascript/examples/infowindow-simple
+
+#### Tips
+- mapa jest już przygotowana, musisz ją tylko rozbudować
+- możesz używać referencji i inputów kontrolowanych
